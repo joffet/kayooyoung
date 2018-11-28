@@ -3506,7 +3506,7 @@ input, select, textarea {
 	.fillParent { position: absolute; top: 0; right: 0; bottom: 0; left: 0 }
 
 	.flex2WideBlock{ min-height: 100px; min-width: 175px; flex: 1; }
-	.flex1WideBlock{ height: 375px; width: 375px; flex-grow: 1; }
+	.flex1WideBlock{ height: 375px; width: 375px; flex-grow: 1; margin: 20px }
 
 	.titleOverImage{
 		height: 60px;
